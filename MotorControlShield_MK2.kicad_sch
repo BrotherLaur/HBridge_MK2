@@ -3035,6 +3035,42 @@
 		(uuid 0291e174-a1f5-412b-a63b-7c3677ad8204)
 	)
 	(rectangle
+		(start 59.182 141.986)
+		(end 112.268 173.736)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 28171dbc-7b57-4d23-9a20-77dd209f7b7a)
+	)
+	(rectangle
+		(start 199.39 88.646)
+		(end 252.476 120.396)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid af0cf731-1a4d-44e5-943c-3762c2d06a1d)
+	)
+	(rectangle
+		(start 87.122 37.592)
+		(end 201.93 65.024)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid c5b59610-f8ef-482d-8c6a-7ba3d0599f2d)
+	)
+	(rectangle
 		(start 45.72 15.24)
 		(end 267.97 187.96)
 		(stroke
@@ -3045,6 +3081,40 @@
 			(type none)
 		)
 		(uuid fb4942db-1393-45d2-9d23-74387f89043f)
+	)
+	(text "BTN7960Bs are\nthird option"
+		(exclude_from_sim no)
+		(at 60.706 155.194 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "03bcf5f2-66f8-4e31-a62f-cad09a1c3534")
+	)
+	(text "Single motor driver board\nhalf bridge options: IR2210 (primary)\nalternatives: BTN7960Bs or LM5109MAs\n\nFor MOSFETs: TO-252s, TO-263s or TO-220s\n\nFor the 12V : either direct 12V from external supply or on-board\n12V regulator in TO-220 or TO-252 package\n\n5V must be supplied externally"
+		(exclude_from_sim no)
+		(at 277.622 130.048 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "24a8eaac-e41f-432b-be97-e6dd9e5011eb")
+	)
+	(text "Half bridge drivers: LM5109MA alternative"
+		(exclude_from_sim no)
+		(at 149.86 41.402 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "36619bca-850a-4ede-b56f-d443440f2bf2")
 	)
 	(text "Any TO252 regulator with pin 2 GND and Pin 3 output\nCan be LM78M12C for example"
 		(exclude_from_sim no)
@@ -3088,6 +3158,17 @@
 			(justify left)
 		)
 		(uuid "e436b437-a81d-4967-9a04-5ab598300a5e")
+	)
+	(text "IR2110 are primary half bridge\ndriver ICs"
+		(exclude_from_sim no)
+		(at 221.742 110.236 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e5bc5054-1008-4a2b-ac42-3e58035fdd0b")
 	)
 	(text "Mark II DC board: Using N channel MOSFETs only.\nSmall/Medium power DC motor controller.\nFor high power DC motors (>400V) which use the ISO5451 driver,\nuse the Mark III board.\n"
 		(exclude_from_sim no)
