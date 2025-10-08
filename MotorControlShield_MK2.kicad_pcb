@@ -177,7 +177,7 @@
 	(net 33 "unconnected-(AMS11173V3-ADJ-Pad1)")
 	(net 34 "unconnected-(AMS11173V3-INPUT-Pad3)")
 	(net 35 "unconnected-(AMS11173V3-OUTPUT-Pad2)")
-	(footprint "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via"
+	(footprint "Footprints:MountingHole_2.7mm_M2.5_Pad_Via"
 		(layer "F.Cu")
 		(uuid "002f1f63-fd40-4783-81fc-5a2dc9a59cf1")
 		(at 80.95 29.52)
@@ -377,7 +377,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "TO220:TerminalBlock_CLEAN_2PIN"
+	(footprint "Footprints:TerminalBlock_CLEAN_2PIN"
 		(layer "F.Cu")
 		(uuid "05c38a3f-88ed-4821-8520-51a26bd3998d")
 		(at 69.21 100.755)
@@ -583,7 +583,7 @@
 			)
 		)
 	)
-	(footprint "Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown"
+	(footprint "Footprints:TO-220-3_Horizontal_TabDown"
 		(layer "F.Cu")
 		(uuid "08267138-9bee-42c3-b59a-3b69c402f1ad")
 		(at 105.64 52.8)
@@ -1151,7 +1151,7 @@
 			)
 		)
 	)
-	(footprint "TO220:R_Axial_Clean"
+	(footprint "Footprints:R_Axial_Clean"
 		(layer "F.Cu")
 		(uuid "0b6d1118-02a6-4959-816a-86a991b07c76")
 		(at 80.9 64.51 -90)
@@ -1307,7 +1307,7 @@
 			)
 		)
 	)
-	(footprint "TO220:R_Axial_Clean"
+	(footprint "Footprints:R_Axial_Clean"
 		(layer "F.Cu")
 		(uuid "0e5935c4-1130-4131-bd22-93a676ebdfa0")
 		(at 45.1354 89.555 -90)
@@ -1463,7 +1463,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_THT:C_Rect_L7.0mm_W3.5mm_P5.00mm"
+	(footprint "Footprints:C_Rect_L7.0mm_W3.5mm_P5.00mm"
 		(layer "F.Cu")
 		(uuid "0f0e8852-5d26-4b40-96b1-5b7b9fd0b957")
 		(at 85.75 60.33 180)
@@ -1626,7 +1626,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_THT:C_Rect_L7.0mm_W3.5mm_P5.00mm"
+	(footprint "Footprints:C_Rect_L7.0mm_W3.5mm_P5.00mm"
 		(layer "F.Cu")
 		(uuid "0f5c3535-e4d0-4326-8ab6-c0c42785b300")
 		(at 104.35 31.17 90)
@@ -1789,7 +1789,7 @@
 			)
 		)
 	)
-	(footprint "TO220:R_Axial_Clean"
+	(footprint "Footprints:R_Axial_Clean"
 		(layer "F.Cu")
 		(uuid "1429e1b6-aadb-4d9c-891d-4a6f64fb7b79")
 		(at 84.2646 82.43 90)
@@ -1945,7 +1945,7 @@
 			)
 		)
 	)
-	(footprint "termocuplu:IC_BTN7960B"
+	(footprint "Footprints:IC_BTN7960B"
 		(layer "F.Cu")
 		(uuid "16494f26-9e3f-474e-ad79-f2101dbd18e5")
 		(at 57.82 44.155)
@@ -2731,7 +2731,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+	(footprint "Footprints:SOIC-8_3.9x4.9mm_P1.27mm"
 		(layer "F.Cu")
 		(uuid "1715a9b8-59cd-4205-aad5-e3139d8ffc31")
 		(at 65.525 86.245 -90)
@@ -3114,7 +3114,7 @@
 			)
 		)
 	)
-	(footprint "TO220:R_Axial_Clean"
+	(footprint "Footprints:R_Axial_Clean"
 		(layer "F.Cu")
 		(uuid "1b1c1da4-68c1-4ed5-99bf-18ec2d3c0c70")
 		(at 29.08 81.005)
@@ -3270,7 +3270,7 @@
 			)
 		)
 	)
-	(footprint "termocuplu:CP_Elec_6.3x3.9_COMPOSITE"
+	(footprint "Footprints:CP_Elec_6.3x3.9_COMPOSITE"
 		(layer "F.Cu")
 		(uuid "1c348c9b-3ed4-4f3e-819d-61a71e1a075f")
 		(at 110.1 83.85)
@@ -3724,7 +3724,7 @@
 			)
 		)
 	)
-	(footprint "TO220:TerminalBlock_CLEAN_2PIN"
+	(footprint "Footprints:TerminalBlock_CLEAN_2PIN"
 		(layer "F.Cu")
 		(uuid "1cb1daf9-3968-46ce-87f4-86264081ee01")
 		(at 74.91 53.6 180)
@@ -3932,7 +3932,7 @@
 			)
 		)
 	)
-	(footprint "TO220:R_Axial_Clean"
+	(footprint "Footprints:R_Axial_Clean"
 		(layer "F.Cu")
 		(uuid "1cd6e940-2c47-418a-9ad7-f0086a0e09f3")
 		(at 40.33 64.955 90)
@@ -4088,7 +4088,7 @@
 			)
 		)
 	)
-	(footprint "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via"
+	(footprint "Footprints:MountingHole_2.7mm_M2.5_Pad_Via"
 		(layer "F.Cu")
 		(uuid "26776911-f327-4f1e-9ffe-32288a1d875a")
 		(at 29.185 28.49)
@@ -4288,7 +4288,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via"
+	(footprint "Footprints:MountingHole_2.7mm_M2.5_Pad_Via"
 		(layer "F.Cu")
 		(uuid "26fdeb7e-f837-4e12-b214-948506edcb36")
 		(at 80.95 113.94)
@@ -4488,7 +4488,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "termocuplu:IC_BTN7960B"
+	(footprint "Footprints:IC_BTN7960B"
 		(layer "F.Cu")
 		(uuid "27db63c8-b0b3-45ce-bfc4-51f26016e859")
 		(at 34.85 91.175 -90)
@@ -5273,7 +5273,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "termocuplu:CP_Elec_6.3x3.9_COMPOSITE"
+	(footprint "Footprints:CP_Elec_6.3x3.9_COMPOSITE"
 		(layer "F.Cu")
 		(uuid "2af9a232-c4e6-4164-b43c-2023ac4d2039")
 		(at 97.7 32.24 90)
@@ -5727,7 +5727,7 @@
 			)
 		)
 	)
-	(footprint "TO220:TerminalBlock_CLEAN_2PIN"
+	(footprint "Footprints:TerminalBlock_CLEAN_2PIN"
 		(layer "F.Cu")
 		(uuid "36950b05-6e9b-4771-a468-b74c4ffff70a")
 		(at 28.93 103.305 -90)
@@ -5933,7 +5933,7 @@
 			)
 		)
 	)
-	(footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+	(footprint "Footprints:D_DO-41_SOD81_P10.16mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "37673317-1ed7-4d56-a227-0c9669308861")
 		(at 95.93 60.19 -90)
@@ -6219,7 +6219,7 @@
 			)
 		)
 	)
-	(footprint "Package_TO_SOT_SMD:TO-263-2"
+	(footprint "Footprints:TO-263-2"
 		(layer "F.Cu")
 		(uuid "37fb7200-3925-48ab-ab2b-2681a86cd425")
 		(at 59.92 59.98)
@@ -6524,7 +6524,7 @@
 			)
 		)
 	)
-	(footprint "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via"
+	(footprint "Footprints:MountingHole_2.7mm_M2.5_Pad_Via"
 		(layer "F.Cu")
 		(uuid "3c5849ba-f4e4-4f1a-97d0-dd664fec6a05")
 		(at 89.47 113.94)
@@ -6724,7 +6724,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Capacitor_THT:C_Rect_L7.0mm_W3.5mm_P5.00mm"
+	(footprint "Footprints:C_Rect_L7.0mm_W3.5mm_P5.00mm"
 		(layer "F.Cu")
 		(uuid "3de376f8-c2dd-4a5d-bc49-99b397be4be3")
 		(at 50.5 76.495 180)
@@ -6887,7 +6887,7 @@
 			)
 		)
 	)
-	(footprint "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via"
+	(footprint "Footprints:MountingHole_2.7mm_M2.5_Pad_Via"
 		(layer "F.Cu")
 		(uuid "4097794a-2399-4504-a910-b119c7f20b68")
 		(at 29.185 115.718109)
@@ -7087,7 +7087,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "TO220:R_Axial_Clean"
+	(footprint "Footprints:R_Axial_Clean"
 		(layer "F.Cu")
 		(uuid "4245bd8b-bb00-4a67-8c40-32676e0784c5")
 		(at 31.72 39.625 -90)
@@ -7243,7 +7243,7 @@
 			)
 		)
 	)
-	(footprint "TO220:R_Axial_Clean"
+	(footprint "Footprints:R_Axial_Clean"
 		(layer "F.Cu")
 		(uuid "4371473c-1002-4c31-84f4-98ce2bac7721")
 		(at 36.46 102.295 -90)
@@ -7399,7 +7399,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_THT:C_Rect_L7.0mm_W3.5mm_P5.00mm"
+	(footprint "Footprints:C_Rect_L7.0mm_W3.5mm_P5.00mm"
 		(layer "F.Cu")
 		(uuid "4c05d5fb-ce85-4fec-bc05-b5dbc184d20e")
 		(at 81.68 85.065 -90)
@@ -7562,7 +7562,7 @@
 			)
 		)
 	)
-	(footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+	(footprint "Footprints:SOIC-8_3.9x4.9mm_P1.27mm"
 		(layer "F.Cu")
 		(uuid "4de00199-2417-4edc-95af-5ca5252d8157")
 		(at 86.59 66.78 180)
@@ -7945,7 +7945,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_THT:C_Rect_L7.0mm_W3.5mm_P5.00mm"
+	(footprint "Footprints:C_Rect_L7.0mm_W3.5mm_P5.00mm"
 		(layer "F.Cu")
 		(uuid "4f54102b-b53d-494e-abb5-826eb9a11afd")
 		(at 80.1 97.195 -90)
@@ -8108,7 +8108,7 @@
 			)
 		)
 	)
-	(footprint "TO220:R_Axial_Clean"
+	(footprint "Footprints:R_Axial_Clean"
 		(layer "F.Cu")
 		(uuid "5e61a1b4-c80f-4594-9588-6fbe77931f3b")
 		(at 99.5646 70.41 90)
@@ -8264,7 +8264,7 @@
 			)
 		)
 	)
-	(footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+	(footprint "Footprints:D_DO-41_SOD81_P10.16mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "604bfedf-f39a-4ad4-a19f-04833a83a2b9")
 		(at 63.47 92.675 180)
@@ -8549,7 +8549,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_THT:C_Rect_L7.0mm_W3.5mm_P5.00mm"
+	(footprint "Footprints:C_Rect_L7.0mm_W3.5mm_P5.00mm"
 		(layer "F.Cu")
 		(uuid "621b7a75-9293-4150-9bb5-7becdb7f4ae6")
 		(at 84.79 98.335 -90)
@@ -8712,7 +8712,7 @@
 			)
 		)
 	)
-	(footprint "termocuplu:CP_Elec_6.3x3.9_COMPOSITE"
+	(footprint "Footprints:CP_Elec_6.3x3.9_COMPOSITE"
 		(layer "F.Cu")
 		(uuid "6309d9d0-41e7-4d69-8bc5-187a652c9921")
 		(at 55.36 104.81 180)
@@ -9166,7 +9166,7 @@
 			)
 		)
 	)
-	(footprint "TO220:TO-220-3_EXTENDED2"
+	(footprint "Footprints:TO-220-3_EXTENDED2"
 		(layer "F.Cu")
 		(uuid "65b71c30-8531-4be6-ad07-0103ea5c50aa")
 		(at 92.1168 45.5688 -90)
@@ -9330,7 +9330,7 @@
 			)
 		)
 	)
-	(footprint "Package_TO_SOT_SMD:TO-263-2"
+	(footprint "Footprints:TO-263-2"
 		(layer "F.Cu")
 		(uuid "660c4b35-8157-469f-8d2a-d68f13918f1b")
 		(at 48.42 30.795 180)
@@ -9637,7 +9637,7 @@
 			)
 		)
 	)
-	(footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+	(footprint "Footprints:D_DO-41_SOD81_P10.16mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "6ea479ad-b63b-4ed8-9a77-9dc091b1bed6")
 		(at 47.435 67.65 90)
@@ -9923,7 +9923,7 @@
 			)
 		)
 	)
-	(footprint "TO220:R_Axial_Clean"
+	(footprint "Footprints:R_Axial_Clean"
 		(layer "F.Cu")
 		(uuid "71dcd037-dfa7-4009-a15e-a722db7ea5b3")
 		(at 32.1354 54.195 -90)
@@ -10079,7 +10079,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_THT:C_Rect_L7.0mm_W3.5mm_P5.00mm"
+	(footprint "Footprints:C_Rect_L7.0mm_W3.5mm_P5.00mm"
 		(layer "F.Cu")
 		(uuid "761f8f23-db64-47e1-9548-d024f4347828")
 		(at 112.88 89.53 -90)
@@ -10242,7 +10242,7 @@
 			)
 		)
 	)
-	(footprint "TO220:R_Axial_Clean"
+	(footprint "Footprints:R_Axial_Clean"
 		(layer "F.Cu")
 		(uuid "7af0c153-ca66-4c71-bd40-b63e8cfc2094")
 		(at 36.3446 65.115 90)
@@ -10398,7 +10398,7 @@
 			)
 		)
 	)
-	(footprint "TO220:TO-220-3_EXTENDED2"
+	(footprint "Footprints:TO-220-3_EXTENDED2"
 		(layer "F.Cu")
 		(uuid "7c758528-e2ac-44b0-9885-801510dd191e")
 		(at 42.9732 47.3912 90)
@@ -10562,7 +10562,7 @@
 			)
 		)
 	)
-	(footprint "termocuplu:CP_Elec_6.3x3.9_COMPOSITE"
+	(footprint "Footprints:CP_Elec_6.3x3.9_COMPOSITE"
 		(layer "F.Cu")
 		(uuid "86f4b097-404f-4404-b751-6da5ee4c064d")
 		(at 92.28 105.375 -90)
@@ -11016,7 +11016,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_THT:C_Rect_L7.0mm_W3.5mm_P5.00mm"
+	(footprint "Footprints:C_Rect_L7.0mm_W3.5mm_P5.00mm"
 		(layer "F.Cu")
 		(uuid "906e67df-721b-4022-8b74-8a5c0955a68f")
 		(at 50.52 72.195 180)
@@ -11179,7 +11179,7 @@
 			)
 		)
 	)
-	(footprint "TO220:R_Axial_Clean"
+	(footprint "Footprints:R_Axial_Clean"
 		(layer "F.Cu")
 		(uuid "96589b2b-2199-4448-8591-d44e13de70b8")
 		(at 58.39 52.165 180)
@@ -11335,7 +11335,7 @@
 			)
 		)
 	)
-	(footprint "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via"
+	(footprint "Footprints:MountingHole_2.7mm_M2.5_Pad_Via"
 		(layer "F.Cu")
 		(uuid "9bc76b09-c3f4-4736-b185-44ae7a27bbc0")
 		(at 111.575 115.53)
@@ -11535,7 +11535,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
+	(footprint "Footprints:PinHeader_1x03_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "a271be15-dc2a-403d-827f-a155004a2f2c")
 		(at 105.4 56.03 90)
@@ -11800,7 +11800,7 @@
 			)
 		)
 	)
-	(footprint "Package_DIP:DIP-14_W7.62mm"
+	(footprint "Footprints:DIP-14_W7.62mm"
 		(layer "F.Cu")
 		(uuid "a97e34e7-65c8-4ae2-b7cc-aeae51b5ffca")
 		(at 70.36 78.495)
@@ -12158,7 +12158,7 @@
 			)
 		)
 	)
-	(footprint "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via"
+	(footprint "Footprints:MountingHole_2.7mm_M2.5_Pad_Via"
 		(layer "F.Cu")
 		(uuid "ac2b3265-4a6b-4d46-83c4-00657cd43dd9")
 		(at 89.47 29.52)
@@ -12358,7 +12358,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Package_TO_SOT_SMD:TO-263-2"
+	(footprint "Footprints:TO-263-2"
 		(layer "F.Cu")
 		(uuid "affed4a3-48bc-42ce-988b-b06924221449")
 		(at 100.435 94.46)
@@ -12663,7 +12663,7 @@
 			)
 		)
 	)
-	(footprint "TO220:TO-220-3_EXTENDED2"
+	(footprint "Footprints:TO-220-3_EXTENDED2"
 		(layer "F.Cu")
 		(uuid "b0579f73-c175-4365-b436-f8fca1a740fd")
 		(at 93.8968 77.9438 -90)
@@ -12827,7 +12827,7 @@
 			)
 		)
 	)
-	(footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+	(footprint "Footprints:D_DO-41_SOD81_P10.16mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "b845585f-ef5e-41bd-b9c5-7489878b576b")
 		(at 92.43 60.24 -90)
@@ -13112,7 +13112,7 @@
 			)
 		)
 	)
-	(footprint "TO220:R_Axial_Clean"
+	(footprint "Footprints:R_Axial_Clean"
 		(layer "F.Cu")
 		(uuid "ba4e7217-1738-4f1f-8630-8f745ce7a3f3")
 		(at 87.74 95.505 90)
@@ -13268,7 +13268,7 @@
 			)
 		)
 	)
-	(footprint "TO220:R_Axial_Clean"
+	(footprint "Footprints:R_Axial_Clean"
 		(layer "F.Cu")
 		(uuid "c532c009-316d-41d9-b1fd-a5953462f8bd")
 		(at 60.45 86.3204 180)
@@ -13424,7 +13424,7 @@
 			)
 		)
 	)
-	(footprint "TO220:TO-220-3_EXTENDED2"
+	(footprint "Footprints:TO-220-3_EXTENDED2"
 		(layer "F.Cu")
 		(uuid "c6dad6e6-a40c-4c7e-ac1c-8633a7474b5c")
 		(at 61.21 76.585 90)
@@ -13588,7 +13588,7 @@
 			)
 		)
 	)
-	(footprint "MountingHole:MountingHole_2.7mm_M2.5_Pad_Via"
+	(footprint "Footprints:MountingHole_2.7mm_M2.5_Pad_Via"
 		(layer "F.Cu")
 		(uuid "c83e1e0c-2e79-4a9a-94cb-d22bcc75c675")
 		(at 111.575 28.49)
@@ -13788,7 +13788,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "termocuplu:CP_Elec_6.3x3.9_COMPOSITE"
+	(footprint "Footprints:CP_Elec_6.3x3.9_COMPOSITE"
 		(layer "F.Cu")
 		(uuid "cd4ffc50-8a77-48e8-911d-1bdbbdc7b3b1")
 		(at 45.3 83.185 180)
@@ -14242,7 +14242,7 @@
 			)
 		)
 	)
-	(footprint "TO220:TerminalBlock_CLEAN_2PIN"
+	(footprint "Footprints:TerminalBlock_CLEAN_2PIN"
 		(layer "F.Cu")
 		(uuid "cf92fae2-a87b-4c3a-a7fb-26a7a039b5c9")
 		(at 37.8 70.575 -90)
@@ -14450,7 +14450,7 @@
 			)
 		)
 	)
-	(footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+	(footprint "Footprints:D_DO-41_SOD81_P10.16mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "d23f9da5-79b5-4b24-b115-7cbf8825a0b2")
 		(at 49.36 99.625 90)
@@ -14735,7 +14735,7 @@
 			)
 		)
 	)
-	(footprint "TO220:R_Axial_Clean"
+	(footprint "Footprints:R_Axial_Clean"
 		(layer "F.Cu")
 		(uuid "d77370ca-a1f6-4a37-823a-ed989bd177cf")
 		(at 26.47 99.205 90)
@@ -14891,7 +14891,7 @@
 			)
 		)
 	)
-	(footprint "TO220:R_Axial_Clean"
+	(footprint "Footprints:R_Axial_Clean"
 		(layer "F.Cu")
 		(uuid "d984411c-9810-40b7-b958-f1e458a55c59")
 		(at 44.0454 57.535 -90)
@@ -15047,7 +15047,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_THT:C_Rect_L7.0mm_W3.5mm_P5.00mm"
+	(footprint "Footprints:C_Rect_L7.0mm_W3.5mm_P5.00mm"
 		(layer "F.Cu")
 		(uuid "dcd2db7d-8a70-4c28-9f7e-7ec30fc9bc78")
 		(at 46.63 103.515 -90)
@@ -15210,7 +15210,7 @@
 			)
 		)
 	)
-	(footprint "Package_TO_SOT_SMD:TO-263-2"
+	(footprint "Footprints:TO-263-2"
 		(layer "F.Cu")
 		(uuid "e3401618-b381-4634-bdb8-3bfd11702e69")
 		(at 72.57 68.84 -90)
@@ -15514,7 +15514,7 @@
 			)
 		)
 	)
-	(footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+	(footprint "Footprints:D_DO-41_SOD81_P10.16mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "eac862a8-ccc9-416e-a1ff-fa84f0454955")
 		(at 87.73 72.23 -90)
@@ -15800,7 +15800,7 @@
 			)
 		)
 	)
-	(footprint "Package_DIP:DIP-14_W7.62mm"
+	(footprint "Footprints:DIP-14_W7.62mm"
 		(layer "F.Cu")
 		(uuid "eb5530ce-2190-4b4e-8cbc-11265667d04a")
 		(at 104.54 60.805)
@@ -16162,7 +16162,7 @@
 			)
 		)
 	)
-	(footprint "TO220:R_Axial_Clean"
+	(footprint "Footprints:R_Axial_Clean"
 		(layer "F.Cu")
 		(uuid "f0c78b71-0245-4635-b426-9ca9f9f38f0a")
 		(at 28.1454 54.705 -90)
@@ -16318,7 +16318,7 @@
 			)
 		)
 	)
-	(footprint "termocuplu:CP_Elec_6.3x3.9_COMPOSITE"
+	(footprint "Footprints:CP_Elec_6.3x3.9_COMPOSITE"
 		(layer "F.Cu")
 		(uuid "f9825ba0-e786-4e51-adf4-d39c7e33c773")
 		(at 83.02 44.865 180)
@@ -16772,7 +16772,7 @@
 			)
 		)
 	)
-	(footprint "Package_TO_SOT_SMD:TO-252-2"
+	(footprint "Footprints:TO-252-2"
 		(layer "B.Cu")
 		(uuid "5cc252b1-15b9-4ba4-be52-9303993bcd56")
 		(at 108.3 42.75 90)
@@ -17572,7 +17572,7 @@
 		(uuid "d985b861-e2c8-495a-a9c8-802e42b13279")
 		(effects
 			(font
-				(size 0.8128 0.8128)
+				(size 1 1)
 				(thickness 0.1524)
 				(bold yes)
 			)

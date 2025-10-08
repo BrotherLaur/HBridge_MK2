@@ -1,0 +1,152 @@
+(footprint "TO-220-3_EXTENDED2"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "TO-220-3, Vertical, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf, generated with kicad-footprint-generator TO_SOT_THT_generate.py")
+	(tags "TO-220-3 Vertical RM 2.54mm")
+	(property "Reference" "REF**"
+		(at 2.57 -5.21 0)
+		(layer "F.SilkS")
+		(uuid "9d5cf01f-a8d6-46a3-b030-feb2aa3bfd24")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "IRLIZ44N"
+		(at 2.54 2.2 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a17e5000-0fdb-4bcd-9b79-ec1747b20b09")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "http://www.irf.com/product-info/datasheets/data/irliz44n.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6a290b52-ed12-483d-956f-1ddf3792dc0d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "30A Id, 55V Vds, 22mOhm Rds, N-Channel HEXFET Power MOSFET, TO-220AB"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "040a3d26-8538-44a6-980e-d43734ea4dd2")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -5.0292 -8.1728)
+		(end 10.2708 -8.1728)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "d5a0ad21-7e16-493e-ace5-78675dbe78e1")
+	)
+	(fp_line
+		(start -5.0292 1.7272)
+		(end -5.0292 -8.1728)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "43f91045-15b1-458e-ad04-33312f0f049d")
+	)
+	(fp_line
+		(start 10.2708 -8.1728)
+		(end 10.2708 1.7272)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "ff51d4a5-96ba-4425-87c1-969856ab4d6b")
+	)
+	(fp_rect
+		(start 10.584 3.5828)
+		(end -5.3516 -8.4292)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "fb3c1f9d-ae2b-4013-a9be-e5fc02044b79")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 5.62 -4.55 0)
+		(layer "F.Fab")
+		(uuid "1ec26edd-bc51-40b6-bab1-6e13cf31509d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 0 0 90)
+		(size 1.9812 5.1308)
+		(drill 1.1
+			(offset 0.0254 -1.7018)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "3376dd9b-3f3c-41e7-8a98-69cc1d811d9d")
+	)
+	(pad "2" thru_hole rect
+		(at 2.4892 -0.0508)
+		(size 1.6764 4.3688)
+		(drill 1.1
+			(offset 0.0254 1.1684)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(zone_connect 2)
+		(uuid "35523e80-3bf3-4dbf-b2cd-80caede552d4")
+	)
+	(pad "3" thru_hole rect
+		(at 5.08 0 270)
+		(size 1.8669 5.1308)
+		(drill 1.1
+			(offset -0.01905 -1.7018)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(zone_connect 2)
+		(uuid "4a01e3a1-94ee-48e1-b523-440a1a9cd1b2")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-220-3_Vertical.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

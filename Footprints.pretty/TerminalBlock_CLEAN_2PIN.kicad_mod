@@ -1,0 +1,199 @@
+(footprint "TerminalBlock_CLEAN_2PIN"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "simple 2-pin terminal block, pitch 5.08mm, revamped version of bornier2")
+	(tags "terminal block bornier2")
+	(property "Reference" "REF**"
+		(at 2.54 -5.08 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "1de8ced9-1283-4d21-bd5b-d79defea5739")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Screw_Terminal_01x02"
+		(at 2.54 5.08 180)
+		(layer "F.Fab")
+		(uuid "b31dac7a-1132-4cd9-bfdf-d5ff24f7579a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "aac521db-7ad5-4eef-a886-9bf7159b17c7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "abb91930-1783-4792-bdf6-3d003c8ae134")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start 7.62 2.54)
+		(end -2.54 2.54)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a9c36deb-a09e-42ff-8c17-4cd135cb359f")
+	)
+	(fp_line
+		(start -2.71 -4)
+		(end -2.71 4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "19677930-c44d-4685-bd3c-51529936f483")
+	)
+	(fp_line
+		(start -2.71 -4)
+		(end 7.79 -4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "44fea04f-83ce-4676-b9cf-bcce92287b9b")
+	)
+	(fp_line
+		(start 7.79 4)
+		(end -2.71 4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1512e35f-f346-4cd5-b38a-86156e29b7dd")
+	)
+	(fp_line
+		(start 7.79 4)
+		(end 7.79 -4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f0215972-9b54-427a-b3fb-cc531b356c92")
+	)
+	(fp_line
+		(start -2.46 -3.75)
+		(end -2.46 3.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3ad0e61f-a01b-4374-9f72-96b1b9525738")
+	)
+	(fp_line
+		(start -2.46 3.75)
+		(end 7.54 3.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "cd2ecb53-69be-4fa9-a0bc-cb4550aae038")
+	)
+	(fp_line
+		(start -2.41 2.55)
+		(end 7.49 2.55)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d1d25a9b-1f4c-4aad-942c-190f6a3914cd")
+	)
+	(fp_line
+		(start 7.54 -3.75)
+		(end -2.46 -3.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0d6578cf-6b79-423d-8cd0-d87631b3d5d9")
+	)
+	(fp_line
+		(start 7.54 3.75)
+		(end 7.54 -3.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ef77c2aa-c2f7-4ba8-be8d-c3a069967f76")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 2.54 0 180)
+		(layer "F.Fab")
+		(uuid "a50d14d5-c1d4-4eb0-81c6-f1375a558aa7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 3 3)
+		(drill 1.52)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(zone_connect 2)
+		(uuid "bca30cad-325e-4656-9c95-aae40073fd9e")
+	)
+	(pad "2" thru_hole circle
+		(at 5.08 0)
+		(size 3 3)
+		(drill 1.52)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(zone_connect 2)
+		(uuid "665de3df-c277-4a3c-813b-fca5393b2076")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/TerminalBlock.3dshapes/TerminalBlock_bornier-2_P5.08mm.step"
+		(offset
+			(xyz 2.539999962 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
